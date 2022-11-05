@@ -2,6 +2,6 @@
 public class ahmed{
 
     public static void main(String[] args) {
-        System.out.println("Ahmed Mohamed"+ "20");
+        System.out.println("Ahmed Mohamed" );
 }
 }
